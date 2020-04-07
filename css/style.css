@@ -67,13 +67,13 @@ h1 {
 }
 
 .logo {
-  background: url(../images/bloc-logo.png);
+
   margin: 20px;
   width: 100px;
 }
 
 .large-pic {
-  background: url(../images/instagram-pic.jpg);
+ 
   width: 100%;
 }
 

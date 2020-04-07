@@ -66,6 +66,11 @@ h1 {
   text-transform: capitalize;
 }
 
+h3 {
+  font-size: 2em;
+  text-align: center;
+}
+
 .logo {
 
   margin: 20px;
@@ -79,6 +84,7 @@ h1 {
 
 .medium-pic {
   width: 70%;
+  background: center;
 }
 
 .left, .right {

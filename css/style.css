@@ -87,6 +87,11 @@ h3 {
   background: center;
 }
 
+figure {
+  background: center;
+  text-align: center;
+}
+
 .left, .right {
   float: left;
   width: 50%;

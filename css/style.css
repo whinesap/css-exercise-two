@@ -92,6 +92,10 @@ figure {
   text-align: center;
 }
 
+.author {
+  text-align: center;
+}
+
 .left, .right {
   float: left;
   width: 50%;

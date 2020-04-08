@@ -64,12 +64,14 @@ h1 {
   font-size: 3em;
   text-align: center;
   text-transform: capitalize;
-  margin: 2px;
+  margin-bottom: 1.5em;
+  margin-top: 2em;
 }
 
 h3 {
   font-size: 1.5em;
   text-align: center;
+  margin-bottom: 2em;
 }
 
 .logo {
